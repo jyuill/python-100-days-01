@@ -1,5 +1,0 @@
-## intro examples
-# basic printing
-print("Whatcha got now?")
-# print with concatenate
-print("Whatcha got "+"right now"+"!?")
